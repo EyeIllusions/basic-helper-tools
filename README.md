@@ -1,0 +1,2 @@
+this package was made for general use as a way to make game development easier by having a few pre-baked scripts that will make developing easier. 
+for any further questions please email Pixelogicllc@gmail.com
