@@ -13,5 +13,8 @@
     "name": "Pixelogic",
     "email": "Pixelogicllc@gmail.com",
     "url": "https://www.unity3d.com"
+  },
+  "dependencies": {
+    "com.unity.inputsystem": "1.7.0"
   }
 }
