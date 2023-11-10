@@ -5,6 +5,7 @@ using UnityEngine.InputSystem;
 namespace Pixelogic.Util
 {
     [RequireComponent(typeof(InputActionManager))]
+ 
     public class PlayerInteract : MonoBehaviour
     {
         public Camera camera;
