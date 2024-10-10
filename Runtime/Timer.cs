@@ -31,7 +31,11 @@ namespace Pixelogic.Util
             if(!isTimerPaused) timer.Tick(Time.deltaTime);
         }
  
-      
+      // allows the user to reset the timer
+   public void Reset()
+   {
+       timer.Reset();
+   }
 
 
     }
