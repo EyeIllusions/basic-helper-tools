@@ -11,7 +11,7 @@ namespace Pixelogic.helper
     /// </summary>
     public class TimerBase
     {
-        float currentTime;
+     public   float currentTime;
         float maxTime;
         bool isCountingDown;
         bool shouldCount = true;
