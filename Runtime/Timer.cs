@@ -36,7 +36,10 @@ namespace Pixelogic.Util
    {
        timer.Reset();
    }
-
+    public void GetCurrentTime()
+    {
+        return timer.currentTime;
+    }
 
     }
 
